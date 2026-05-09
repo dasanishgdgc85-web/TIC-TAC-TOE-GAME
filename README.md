@@ -42,4 +42,15 @@ _ | _ | _      ✕ | _ | _      _ | ✕ | _
 _ | _ | _      ✕ | _ | _      _ | _ | ✕
 
  Horizontal      Vertical       Diagonal
- 
+
+
+
+
+ 🎨 Color Palette (GUI)
+ElementColorBackground#0f0f1aPlayer ✕#ff4d6d (Neon Red)Player ○#4cc9f0 (Neon Blue)Win Highlight#f8e16c (Yellow)Grid#1e1e32 (Dark Blue)
+
+📦 Dependencies
+No external libraries required. Only Python's built-in modules are used:
+
+tkinter — GUI framework
+tkinter.font — Custom font styling................
